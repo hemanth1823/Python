@@ -10,7 +10,7 @@
 <p>Something</p>
 
 ## Synopsis ##
-        code
+        code(something)
 ## Description ##
 <p>Something</p>
 
